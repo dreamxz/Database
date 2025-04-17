@@ -1,6 +1,0 @@
-{
-  "6281330944432": {
-    "name": "DREAMZ",
-    "password": "PUNYADEV"
-  }
-}
