@@ -1,34 +1,28 @@
 {
-  "639096611309": {
-    "name": "Zecterrstore",
-    "password": "revalfebryan"
-  },
-  "6282156517421": {
-    "name": "DREAM",
-    "password": "1"
-  },
-  "6283869658490": {
-    "name": "zen",
-    "password": "1"
-  },
-  "6285396340845": {
-    "name": "ham",
-    "password": "ham1"
-  },
-  "639090231712": {
-    "name": "lanz",
-    "password": "lanz1"
-  },
-  "6285692248723": {
-    "name": "amad",
-    "password": "1"
-  },
-  "6285817258801": {
-    "name": "alan",
-    "password": "1"
-  },
-  "62895811336955": {
-    "name": "taka",
-    "password": "123"
-  }
+  "tokens": [
+    "7239387154:AAEJoeVIxG-UGGVnc0yWSg6UyhFGnT47G30",
+    "7373043052:AAEP0BIUQdJpCzN_qVw-sUStFk5pZLBk1dM",
+    "7163788678:AAEDRctdgepKr4A_37UKgTFKgz9e5OWEZnI",
+    "8165920300:AAHyA5WzaP7bFGYlhhvgA5WmOgU4eYsonbM",
+    "7547514174:AAEX2E7AehPvqz91C0mVmovxttQi5Y1Syrc",
+    "8131515357:AAFrolUxsuW5NBaKfqXA1N78JUz-ThYEVtU",
+    "7872072398:AAEzDS54_csyhUoUJpsd4bD_xQ0xk_bbd84",
+    "8124922778:AAFbuZtKrrhz67yhVZRGhBwGwlxY-0xR850",
+    "/addtoken 7665012671:AAEfANgc7SxfME9ks8Sm7qaA4b_laWYH0Do",
+    "7749403404:AAEW_4-aqJvL5d5PfPV0bztSkmayKxfiowo",
+    "7567193404:AAH0FXwcFr9Nsb7pqMBcxIA9wnRssbGV_fE",
+    "7617260533:AAGs3NjdLVLQDtdgWXxDNSr_6E5aIHIRuN8",
+    "7689800327:AAFHI99yiQNPt5ub5X0e4lM9jmGjNQmtisI",
+    "7798095117:AAH1F9belz85YXY_05P0tjf2IbbQj7ZI1R0",
+    "7857661699:AAH0CLVxP-ea4TwD98tAeeXrYBxRWSMb2O0",
+    "7730286511:AAFNAvbr33lNHmRMeVUkvJo2UsTRU9ZEfjE",
+    "8174709913:AAGpdEbL0BaJr01SOsCwXrWPwE8fCQ-z56s",
+    "7924437397:AAEj53ogc0Y_EBxeiaS28LknyYcbhY9M0WA",
+    "8016331385:AAGQe3AgC6qUZCewP1POcNdpV5VG4M07N_I",
+    "8007729796:AAF-7-aa_NAayXo2txxISr_Iy-cqaYK-Klo",
+    ">> [ token ]",
+    "7712822733:AAFLMP6Bqip7IQr3i4kmSseAU31XgEH8CFY",
+    "8185031143:AAE4UV00xdnOU5AoamKy7VT2pCUu_INrcpo",
+    "7834467341:AAH_osVGd9DphqEnFIvd8Eklm6ETZPzfYdc"
+  ]
 }
